@@ -1,0 +1,10 @@
+.sidebar {
+  width: 300px;
+  float: left;
+  color: orange;
+}
+
+.floatimg {
+  border: darkorchid;
+  float: right;
+}
